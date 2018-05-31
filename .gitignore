@@ -1,4 +1,4 @@
 .idea/
-*.iml
+autostrade.iml
 target/
 .DS_Store
